@@ -19,3 +19,8 @@ O KurOS, idealizado pelo [Vinicius Monfre](), busca inspiração em um dos melho
 * [Vinicius Monfre](https://github.com/Programar-em-Linux)
 * [Natanael](https://github.com/sudo-give-me-coffee)
 * [Rubens dos Santos](https://github.com/kaetaen/kaetaen)
+
+## Contato
+
+* E-mail: k01devs@linuxmail.org
+* Telegram: https://t.me/K01Devs
