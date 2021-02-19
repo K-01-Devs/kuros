@@ -19,7 +19,7 @@ O KurOS, idealizado pelo [Vinicius Monfre](), busca inspiração em um dos melho
 </details>
 
 
-## Matenedores
+## Mantenedores
 
 * [Vinicius Monfre](https://github.com/Programar-em-Linux)
 * [Natanael](https://github.com/sudo-give-me-coffee)
